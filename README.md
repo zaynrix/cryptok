@@ -14,7 +14,7 @@
 # APK
   </p>
 <p align="left">
-<a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+<a href="https://drive.google.com/file/d/1ZtGqaoCdZM4ZjHKpViTDb42ujx97_NjS/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
 
 
   </p>
