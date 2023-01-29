@@ -1,25 +1,16 @@
 # Shop Mobile
+
 # Desing
 
-  </p>
 <p align="left">
-<a href="https://www.figma.com/file/pgZhGkpSWwrkUqMoEYfPq0/Mobile-shop-App-UI-Kit?node-id=214%3A2546" target="_blank"><img src="screenShots/click.png" width="300"></a>
-
-
-  </p>
-
-
-
+<img src="screenShots/prev.png"  />
 
 # APK
+
   </p>
 <p align="left">
 <a href="https://drive.google.com/file/d/1ZtGqaoCdZM4ZjHKpViTDb42ujx97_NjS/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
-
-
   </p>
-
-
 
 
 
