@@ -3,7 +3,7 @@
 # Desing
 
 <p align="left">
-<img src="screenShots/prev.png"  />
+<img src="screenShots/Prev.png" />
 
 # APK
 
@@ -21,7 +21,7 @@
 
 
 <p align="center">
-<img src="screenShots/prev.png"  />
+<img src="screenShots/Prev.png"  />
 
   </p>
 <p align="center">
